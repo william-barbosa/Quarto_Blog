@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - text: "{{< ai ai-lattes size = 5x >}}"
+        href: http://lattes.cnpq.br/9370334825334170
+#      - icon: twitter
+#        href: https://twitter.com
+format:
+  html:
+    theme: tema.scss
+    css: bootstrap.min.css
+   # css: styles.css
+
+
+

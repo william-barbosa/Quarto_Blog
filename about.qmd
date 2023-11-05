@@ -1,0 +1,40 @@
+---
+title: "Sobre"
+image: profile.jpg
+output: html_document
+---
+<style>
+
+</style>
+
+____
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+**Nome: William Barbosa**          
+
+**Nacionalidade:** Brasileiro             
+
+**Nascimento:** 15/04/1989
+
+**Cidade:** Ponta Grossa - PR
+
+**Endereço profissional** Universidade de São Paulo, Escola Superior de Agricultura Luiz de Queiroz, Departamento de Economia Administração e Sociologia. Av. Pádua Dias, 11, Agronomia, CEP: 13418900 - Piracicaba, SP - Brasil
+
+**E-mail:** williambarbosa@usp.br / william.economist@gmail.com
+
+:::
+
+::: {.column width="2%"}
+<!-- Coluna vazia par melhorar a estética -->
+::: 
+
+::: {.column width="28%"}
+```{r, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("perfil.jpg")
+```
+:::
+
+::::

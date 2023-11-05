@@ -1,0 +1,18 @@
+---
+title: "Blog - William Novo 1"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+
+editor:
+  render-on-save: true
+---
+
+
+

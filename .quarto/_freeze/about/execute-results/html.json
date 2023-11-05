@@ -1,0 +1,14 @@
+{
+  "hash": "13f6264d032528851f4999362e488aac",
+  "result": {
+    "markdown": "---\ntitle: \"Sobre\"\nimage: profile.jpg\noutput: html_document\n---\n\n<style>\n\n</style>\n\n____\n\n:::: {.columns}\n\n::: {.column width=\"70%\"}\n\n**Nome: William Barbosa**          \n\n**Nacionalidade:** Brasileiro             \n\n**Nascimento:** 15/04/1989\n\n**Cidade:** Ponta Grossa - PR\n\n**Endereço profissional** Universidade de São Paulo, Escola Superior de Agricultura Luiz de Queiroz, Departamento de Economia Administração e Sociologia. Av. Pádua Dias, 11, Agronomia, CEP: 13418900 - Piracicaba, SP - Brasil\n\n**E-mail:** williambarbosa@usp.br / william.economist@gmail.com\n\n:::\n\n::: {.column width=\"2%\"}\n<!-- Coluna vazia par melhorar a estética -->\n::: \n\n::: {.column width=\"28%\"}\n\n::: {.cell}\n::: {.cell-output-display}\n![](perfil.jpg){width=100%}\n:::\n:::\n\n:::\n\n::::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
